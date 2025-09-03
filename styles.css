@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-  font-size: 25.6 px;
+  font-size: 25.6px;
 }
 
 p {
@@ -13,4 +13,7 @@ p {
 h2 {
   font-style: italic;
 }
-  
+
+#buildings {
+  background-color: rgb(255, 99, 71);
+}
