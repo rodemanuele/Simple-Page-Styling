@@ -28,4 +28,5 @@ h2 + p::first-letter {
 
 abbr {
   text-decoration-style: none;
+  border-bottom: none;
 }
