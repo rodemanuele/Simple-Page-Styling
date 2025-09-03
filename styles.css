@@ -27,6 +27,5 @@ h2 + p::first-letter {
 }
 
 abbr {
-  text-decoration: none;
-  border: none;
+  text-decoration: none !important;
 }
