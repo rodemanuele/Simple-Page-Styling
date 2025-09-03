@@ -14,10 +14,10 @@ h2 {
   font-style: italic;
 }
 
-#buildings {
+.buildings {
   background-color: rgb(109, 32, 119);
 }
 
-h2 > p {
+h2 + p {
   font-color: rgb(109, 32, 119);
 }
