@@ -19,7 +19,7 @@ h2 {
 }
 
 h2 + p {
-  font-color: rgb(109, 32, 119);
+  font-color: rgb(109, 32, 119):
 }
 
 h2 + p::first-letter {
