@@ -2,4 +2,9 @@ body {
   font-family: "Titillium Web", sans-serif;
 }
 h1 {
-  font-size: "25.6px"
+  font-size: 25.6 px;
+}
+p {
+  line-height: 1.8;
+}
+  
