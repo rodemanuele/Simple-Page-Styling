@@ -37,6 +37,6 @@ h2 + ul {
 
 h1 + p {
   background-color: rgb(109, 32, 119);
-  font-color: white;
+  font-color: rgb(255, 255, 255);
 }
 
