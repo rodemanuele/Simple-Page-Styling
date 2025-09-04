@@ -16,6 +16,7 @@ h2 {
 
 #buildings {
   background-color: rgb(109, 32, 119);
+  font-color: white;
 }
 
 h2 + p {
