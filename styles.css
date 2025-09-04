@@ -4,6 +4,7 @@ body {
 
 h1 {
   font-size: 25.6px;
+  color: (218, 41, 28);
 }
 
 p {
@@ -11,7 +12,7 @@ p {
 }
 
 h2 {
-  font-color: rgb(0, 94, 184)
+  color: rgb(0, 94, 184);
   font-style: italic;
 }
 
@@ -37,6 +38,6 @@ h2 + ul {
 
 h1 + p {
   background-color: rgb(109, 32, 119);
-  font-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
 }
 
