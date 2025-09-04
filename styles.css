@@ -12,6 +12,7 @@ p {
 
 h2 {
   font-style: italic;
+  color: rgb(0, 94, 184)
 }
 
 #buildings {
@@ -34,7 +35,7 @@ h2 + ul {
   color: rgb(255, 255, 255);
 }
 
-h2 {
-  color: rgb(0, 94, 184)
+h1 + p {
+  background-color: rgb(109, 32, 119);
 }
 
