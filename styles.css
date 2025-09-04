@@ -29,5 +29,12 @@ h2 + p::first-letter {
 abbr {
   text-decoration: none !important;
 }
+
 h2 + ul {
   color: rgb(255, 255, 255);
+}
+
+h2 {
+  color: rgb(0, 94, 184)
+}
+
